@@ -47,9 +47,12 @@ body{
 #area-lateral{
 	width: 240px;
 	float: right;
-	position: fixed;
+	position: relative;
+	/*position: fixed;
+	top: 19.1%;
+	right: 21%;
 	top: 151px;
-	right: 332px;
+	right: 332px;*/
 }
 
 .conteudo-lateral{
