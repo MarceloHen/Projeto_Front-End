@@ -100,6 +100,12 @@ a:hover{
 	text-decoration: none;
 }
 
+#area-logo a:hover{
+	color: unset;
+	background: unset;
+	text-decoration: none;
+}
+
 /* --- FORMATAÇÕES GERAIS --- */
 
 h1{
